@@ -1,0 +1,22 @@
+.home-style {
+    width: 1200px;
+    position: absolute;
+    left:0px;
+    right: 0px;
+    margin: auto;
+    background: white;
+    height: 610px;
+    box-shadow: -1px 0px 19px 0px rgba(0,0,0,0.75);
+
+}
+  
+.heading-container{
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 5px;
+    color: rgb(65, 65, 65);
+}

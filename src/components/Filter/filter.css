@@ -1,0 +1,31 @@
+.filter-style{
+    width: 579px;
+    position: absolute;
+    left: 0px;
+    border: 1px solid black;
+    height: 559px;
+    top:50px;
+}
+
+.date-picker-style{
+    border-bottom: 1px solid black;
+}
+
+.heading-style {
+    padding: 5px 0px 5px;
+    margin: 0px;
+    border-bottom: 1px solid black;
+}
+
+.list-style {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 5px;
+    max-height: 65px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.list-style li label, .list-style li input{
+    cursor: pointer;
+}

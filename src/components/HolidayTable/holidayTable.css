@@ -1,0 +1,31 @@
+.holidayTable-td-style{
+    padding:5px;
+    border:1px solid black;
+}
+
+.holidayTable-table-style{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+}
+
+.holidayTable-table-style thead th {
+    position: sticky;
+    top: 0;
+    background: rgb(202, 202, 202);
+    border: 1px solid black;
+    font-size: 14px;
+  }
+
+.holidayTable-container{
+    position: absolute;
+    top:50px;
+    margin-left: 580px;
+    width: 620px;
+    overflow: auto;
+    height: 560px;
+}
+
+.holidayTable-table-style tr{
+    height: 30px;
+}
